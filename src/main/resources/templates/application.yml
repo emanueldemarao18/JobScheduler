@@ -1,0 +1,5 @@
+spring:
+  application:
+    name:quartz
+server:
+  port:8081
